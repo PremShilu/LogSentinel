@@ -2,32 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>LogSentinel – Real-Time Windows Log Monitoring</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 2em;
-      line-height: 1.6;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 1em;
-      overflow-x: auto;
-      border-left: 4px solid #3498db;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    ul li::before {
-      content: "✅ ";
-      color: green;
-      margin-right: 0.5em;
-    }
-  </style>
+  
 </head>
 <body>
 
