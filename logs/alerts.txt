@@ -1,0 +1,14 @@
+[ALERT]2025-06-06 11:07:06 - Admin login by user: Unknown at 2025-06-06 11:07:04
+[ALERT]2025-06-06 11:07:10 - Admin login by user: Unknown at 2025-06-06 11:07:09
+[ALERT]2025-06-06 11:07:11 - Admin login by user: Unknown at 2025-06-06 11:07:09
+[ALERT]2025-06-06 11:07:25 - Failed login from user: HP at 2025-06-06 11:07:23
+[ALERT]2025-06-06 11:07:26 - Admin login by user: Unknown at 2025-06-06 11:07:25
+[ALERT]2025-06-06 11:07:54 - Admin login by user: Unknown at 2025-06-06 11:07:52
+[ALERT]2025-06-06 11:47:31 - Special privileges assigned to user: Unknown at 2025-06-06 11:47:29
+[ALERT]2025-06-06 11:47:33 - Failed login from user: HP at 2025-06-06 11:47:31
+[ALERT]2025-06-06 11:47:37 - Special privileges assigned to user: Unknown at 2025-06-06 11:47:35
+[ALERT]2025-06-06 11:55:17 - Special privileges assigned to user: Unknown at 2025-06-06 11:55:16
+[ALERT]2025-06-06 11:55:58 - Special privileges assigned to user: Unknown at 2025-06-06 11:55:57
+[ALERT]2025-06-06 11:57:21 - Special privileges assigned to user: Unknown at 2025-06-06 11:57:20
+[ALERT]2025-06-06 11:58:24 - Special privileges assigned to user: Unknown at 2025-06-06 11:58:22
+[ALERT]2025-06-06 11:58:24 - Special privileges assigned to user: Unknown at 2025-06-06 11:58:22
