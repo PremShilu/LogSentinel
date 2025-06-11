@@ -72,6 +72,7 @@
     Feel free to reach out to me on LinkedIn or message me if you'd like to build on this together!
   </p>
 
+ <h3>Modification</h3>
   <p>
     For adding your own personalized rules just modify the detection_rules.py and monitory.py with the same change and it would work just fine!
   </p>
